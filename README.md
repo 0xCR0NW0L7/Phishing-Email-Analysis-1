@@ -166,10 +166,10 @@ This email is a **phishing attempt claiming to be from Microsoft Outlook Support
 ![Challenge 1 Screenshot](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%201.png)
 
 
-1. VirusTotal Checks
+2. VirusTotal Checks
 
 ![Screenshot 2](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%202.png)
 
-1. URLscan.io check
+3. URLscan.io check
 
 ![Screenshot 3](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%203.png)
