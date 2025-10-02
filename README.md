@@ -94,14 +94,14 @@ Q16 [Yes or No] - After your analysis, is this email genuine?
 
 ## Challenge 1 Report
 
-![img\image.png](image.png)
+![Screenshot 1](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image.png)
 
 ## Headers
 
 | **Header** | **Value** |
 | --- | --- |
 | Date | `Tue, 31 Oct 2023 10:10:04 -0900` |
-| Subject | `Your account has been flagged for unusal activity` |
+| Subject | `Your account has been flagged for unusual activity` |
 | From | `social201511138@social.helwan.edu.eg` |
 | To | `dderringer@mighty-solutions.net` |
 | Reply-To | NA |
@@ -155,7 +155,7 @@ This email is a **phishing attempt claiming to be from Microsoft Outlook Support
 - Block sender domain and listed IPs/URLs
 - Alert and educate users about phishing attempts
 - Hunt in logs for clicks on phishing URLs
-- Share IoCs (IPs, domains, URLs) with CTI platform
+- Share IoCs (IPs, domains, URLs) with the CTI platform
 
 ## Screenshots
 
@@ -163,12 +163,13 @@ This email is a **phishing attempt claiming to be from Microsoft Outlook Support
 
 1. Reverse IP Lookup
 
-![image.png](image%201.png)
+![Challenge 1 Screenshot](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%201.png)
+
 
 1. VirusTotal Checks
 
-![image.png](image%202.png)
+![Screenshot 2](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%202.png)
 
 1. URLscan.io check
 
-![image.png](image%203.png)
+![Screenshot 3](https://raw.githubusercontent.com/0xCR0NW0L7/Phishing-Email-Analysis-1/main/img/image%203.png)
